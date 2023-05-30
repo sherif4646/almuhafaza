@@ -1,5 +1,5 @@
 {
-  "name": "moodlemobile",
+  "name": "almuhafazamobile",
   "version": "4.1.1",
   "description": "The official app for Almuhafaza.",
   "author": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodleapp.git"
+    "url": "https://github.com/sherif4646/almuhafaza.git"
   },
   "license": "Apache-2.0",
   "licenses": [
